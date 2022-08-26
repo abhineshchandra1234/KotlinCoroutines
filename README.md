@@ -1,7 +1,7 @@
 
 # Coroutine fundamental in kotlin
 
-This project has simple implementation of runBlocking, GlobalScope
+This project has simple implementation of runBlocking, GlobalScope,
 suspend func and delay func. It clearly explains the difference between
 them and how to use them
 
